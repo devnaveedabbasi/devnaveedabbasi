@@ -1,3 +1,5 @@
+![logo](https://github.com/Naveed-Abbasi786/Naveed_Abbasi/blob/main/banner.jpeg)
+
 <h1 align="center">Hi 👋, I'm Naveed Abbasi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
