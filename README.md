@@ -1,23 +1,22 @@
 
 ![logo](https://github.com/Naveed-Abbasi786/Naveed-Abbasi786/blob/main/banner.png)
 
-<h1 align="center">Hi 👋, I'm Naveed Abbasi</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-
-<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGx6D2Y4feMpqeouOwctwhuSXcjZMXd3vY5g&s' width='400' al='coding' align='right' />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveed-abbasi786&label=Profile%20views&color=0e75b6&style=flat" alt="naveed-abbasi786" /> </p>
-
-- 🔭 Currently working as a **MERN Stack Developer**
-- 🚀 Building full-stack applications with **MongoDB, Express.js, React.js, Node.js**
-- 💬 Ask me about **React, Next.js, TypeScript,JavaScript,Firebase,Tailwind CSS**
-- 📫 Reach me at: **naveedabbasi8651@gmail.com**
-- 🌐 Check out my Portfolio: [Click Here](https://github.com/Naveed-Abbasi786/persnol_portfolio.git)
+<h1 >Hi 👋, I'm Naveed Abbasi</h1>
+<h3">A passionate frontend developer from Pakistan</h3>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/naveed-abbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naveed-abbasi" height="30" width="40" /></a>
-</p>
+
+<h4>- 🔭 Currently working as a **MERN Stack Developer**</h4>
+<h4>- 🚀 Building full-stack applications with **MongoDB, Express.js, React.js, Node.js**</h4>
+<h4>- 💬 Ask me about **React, Next.js, TypeScript,JavaScript,Firebase,Tailwind CSS**</h4>
+<h4>- 📫 Reach me at: **naveedabbasi8651@gmail.com**</h4>
+<h4>- 🌐 Check out my Portfolio:(https://github.com/Naveed-Abbasi786/persnol_portfolio.git)</h4>
+
+
+
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveed-abbasi786" alt="naveed-abbasi786" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveed-abbasi786&show_icons=true&locale=en" alt="naveed-abbasi786" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveed-abbasi786&" alt="naveed-abbasi786" /></p>
+ 
