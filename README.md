@@ -70,22 +70,23 @@ Currently expanding my expertise in *MernStack* to deliver production-ready appl
 
 ---
 
-### 📊 GitHub Analytics  
+
 
 <!-- <div align="center">
-   
+### 📊 GitHub Analytics     
   <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=devnaveedabbasi&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
   <img height="270" width="435" src="https://nirzak-streak-stats.vercel.app/?user=devnaveedabbasi&theme=dark&hide_border=false" />
 <br/>
-</div> -->
-
+</div>
 ---
-
-
-
 #### 🔥  Trophies
-
 <img src="https://github-profile-trophy.vercel.app/?username=devnaveedabbasi&theme=tokyonight&no-frame=true" />
+-->
+
+
+
+
+
 
 
 
