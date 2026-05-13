@@ -5,7 +5,7 @@
 
 ---
 
-### 👨‍💻 About Me  
+###  About Me  
 
 I'm a passionate **MERN Stack Developer** from Pakistan, dedicated to crafting dynamic, efficient, and user-centric web applications.  
 I specialize in developing full-stack solutions using **MongoDB, Express.js, React.js, and Node.js**, with a strong focus on clean architecture and responsive design.  
@@ -14,13 +14,13 @@ Currently expanding my expertise in *MernStack* to deliver production-ready appl
 
 ---
 
-### 💡 What I Do  
+###  What I Do  
 
-- 🔭 Build scalable full-stack web applications using the **MERN Stack**  
-- 🛠 Design and develop secure REST APIs with **Node.js & Express.js**  
-- 💻 Create clean, modern UIs using **React.js & Tailwind CSS**  
-- 🔥 Integrate **Firebase** for authentication, hosting, and real-time databases  
-- 📝 Write maintainable, optimized, and reusable code for long-term projects  
+-  Build scalable full-stack web applications using the **MERN Stack**  
+-  Design and develop secure REST APIs with **Node.js & Express.js**  
+-  Create clean, modern UIs using **React.js & Tailwind CSS**  
+-  Integrate **Firebase** for authentication, hosting, and real-time databases  
+-  Write maintainable, optimized, and reusable code for long-term projects  
 
 ---
 
