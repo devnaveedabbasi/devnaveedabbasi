@@ -1,4 +1,4 @@
-![banner](https://github.com/Naveed-Abbasi786/Naveed-Abbasi786/blob/main/linkdincove.png)
+![banner](https://github.com/Naveed-Abbasi786/Naveed-Abbasi786/blob/main/banner4.png)
 
 <h1 align="center">Hi, I'm Naveed Abbasi 👋</h1>
 <h3 align="center">MERN Stack Developer | Building Scalable Web Applications</h3>
